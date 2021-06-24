@@ -1,1 +1,0 @@
-(self.webpackChunkwebpackprod=self.webpackChunkwebpackprod||[]).push([[43],{410:function(n,u,e){"use strict";function r(n,u){return n*u}function t(n,u){return n-u}e.r(u),e.d(u,{mul:function(){return r},count:function(){return t}}),console.log("tree.js被加载")}}]);
